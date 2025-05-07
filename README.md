@@ -1,2 +1,2 @@
 # Lap-Practice-II
-AI Lab (DSA Codes)
+AI and CC lab 
